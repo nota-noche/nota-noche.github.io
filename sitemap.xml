@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://nota-noche.github.io/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://nota-noche.github.io/index.html#header01-1l</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nota-noche.github.io/index.html#slider02-1u</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nota-noche.github.io/index.html#video05-1v</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nota-noche.github.io/index.html#article05-1z</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nota-noche.github.io/assets/files/ALGERIAN-STREETCHAABI-OfficialBookletbyNotaNoche.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://notanoche.bandcamp.com/album/algerian-street-chaabi-triple-album</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.youtube.com/@NotaNoche</loc>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
